@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TaskControlApp/precache-manifest.e37f96ca26d424f2bb8e7946e0d24af6.js"
+  "/TaskControlApp/precache-manifest.3704465af18c286375acd03cfa906535.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "task-control"});
